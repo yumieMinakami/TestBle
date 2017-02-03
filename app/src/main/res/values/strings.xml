@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestBle</string>
+
+    <string name="ble_not_supported">BLE is not supported.</string>
+    <string name="bt_on">Bluetooth is acrivated.</string>
+    <string name="bt_turning_on">Bluetooth is turning on.</string>
+    <string name="bt_off">Bluetooth is not activated.  Please turn on it.</string>
+    <string name="bt_turning_off">Bluetooth is turning off.</string>
+    <string name="bt_on_request">Please activate Bluetooth.</string>
+    <string name="bt_connected">Bluetooth has connected.</string>
+    <string name="bt_disconnected">Bluetooth does not connect.</string>
+    <string name="bt_connect_request">Please connect Bluetooth devices.</string>
+    <string name="bt_state_connected">Profile is connected.</string>
+    <string name="bt_state_connecting">Profile is connecting now.</string>
+    <string name="bt_state_disconnected">Profile is disconnected.</string>
+    <string name="bt_state_disconnecting">Profile is disconnecting now.</string>
+
+    <string name="ble_major">BLE Major</string>
+    <string name="ble_minor">BLE Minor</string>
+    <string name="ble_power">BLE Power</string>
+    <string name="ble_prx_uuid">BLE Proximity UUID</string>
+</resources>
