@@ -19,4 +19,7 @@
     <string name="ble_minor">BLE Minor</string>
     <string name="ble_power">BLE Power</string>
     <string name="ble_prx_uuid">BLE Proximity UUID</string>
+
+    <string name="permission_6">Permitted.</string>
+    <string name="unpermission_6">Not-Permitted.</string>
 </resources>
